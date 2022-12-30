@@ -1,6 +1,7 @@
 ## Localization PT-BR - Overhaul > Preview 25902
 - (Date: 12/30/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *ev1130.cnvrs-text*
   - » *ev2060.cnvrs-text*
   - » *ev2100.cnvrs-text*
@@ -11,6 +12,7 @@
 ## Localization PT-BR - Overhaul > Preview 25790
 - (Date: 12/30/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *sy1000.cnvrs-text*
   - » *sy1010.cnvrs-text*
   - » *sy1030.cnvrs-text*
@@ -35,6 +37,7 @@
 ## Localization PT-BR - Overhaul > Preview 21356
 - (Date: 12/30/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *ev0010.cnvrs-text*
   - » *ev1010.cnvrs-text*
   - » *ev2030.cnvrs-text*
@@ -53,11 +56,13 @@
 ## Localization PT-BR - Overhaul > Preview 21234
 - (Date: 12/30/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *ev1010.cnvrs-text*
 
 ## Localization PT-BR - Overhaul > Preview 21233
 - (Date: 12/30/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *ev0020.cnvrs-text*
   - » *ev1050.cnvrs-text*
   - » *ev1900.cnvrs-text*
@@ -66,11 +71,13 @@
 ## Localization PT-BR - Overhaul > Preview 14558
 - (Date: 12/30/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *ev0020.cnvrs-text* - Sonic Speech text is now centered!
 
 ## Localization PT-BR - Overhaul > Preview 14523
 - (Date: 12/29/2022)
 - Modification In The Texts:
+###### └ text_caption_pt
   - » *ev0010.cnvrs-text*
   - » *ev0020.cnvrs-text*
   - » *ev1010.cnvrs-text*
