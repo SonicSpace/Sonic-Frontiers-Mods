@@ -1,5 +1,6 @@
 ## Localization PT-BR - Overhaul > Preview 25790
 - (Date: 12/30/2022)
+- Modification In The Texts:
   - » *sy1000.cnvrs-text*
   - » *sy1010.cnvrs-text*
   - » *sy1030.cnvrs-text*
