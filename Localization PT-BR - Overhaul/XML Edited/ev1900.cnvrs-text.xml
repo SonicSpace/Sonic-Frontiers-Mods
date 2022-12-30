@@ -11,10 +11,10 @@
       Obtenha a Esmeralda do Chaos
     </text>
     <text name="ev1900_040" id="2169945958" font="Range_FNT" layout="Range_LAY">
-      Colete chaves de cofre de portais
+      Colete as Chaves do Cofre dos Portais
     </text>
     <text name="ev1900_050" id="2169946085" font="Range_FNT" layout="Range_LAY">
-      Vá até o topo da cachoeira
+      Vá até o Topo da Cachoeira
     </text>
     <text name="ev1900_060" id="2169946212" font="Range_FNT" layout="Range_LAY">
       Insira a Engrenagem no Portal
@@ -26,7 +26,7 @@
       Colete itens Mnemônicos da Amy
     </text>
     <text name="ev1900_081" id="2169946467" font="Range_FNT" layout="Range_LAY">
-      Procure Amigos
+      Procure pelos Amigos
     </text>
   </sheet>
   <fonts>
