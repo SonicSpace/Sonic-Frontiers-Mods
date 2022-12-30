@@ -1,3 +1,13 @@
+## Localization PT-BR - Overhaul > Preview 25902
+- (Date: 12/30/2022)
+- Modification In The Texts:
+  - » *ev1130.cnvrs-text*
+  - » *ev2060.cnvrs-text*
+  - » *ev2100.cnvrs-text*
+  - » *ev2130.cnvrs-text*
+  - » *ko1010.cnvrs-text*
+  - » *ko1300.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 25790
 - (Date: 12/30/2022)
 - Modification In The Texts:
