@@ -20,3 +20,5 @@
 
 ## Localization PT-BR - Overhaul > Preview 46198
 - First Improvement (Date: 12/29/2022)
+
+![Preview 14558 - HMM Update Server](https://user-images.githubusercontent.com/88670125/210071752-6686e791-90cb-4719-bf07-b03b76fe86a1.png)
