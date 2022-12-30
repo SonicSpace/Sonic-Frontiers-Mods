@@ -1,19 +1,20 @@
 ## Localization PT-BR - Overhaul > Preview 21356
 - (Date: 12/30/2022)
-- » *ev0010.cnvrs-text*
-- » *ev1010.cnvrs-text*
-- » *ev2030.cnvrs-text*
-- » *ev2050.cnvrs-text*
-- » *ev2060.cnvrs-text*
-- » *ev2070.cnvrs-text*
-- » *ev2100.cnvrs-text*
-- » *ev2110.cnvrs-text*
-- » *ev2130.cnvrs-text*
-- » *ev2140.cnvrs-text*
-- » *ev2150.cnvrs-text*
-- » *ev2900.cnvrs-text*
-- » *ev3010.cnvrs-text*
-- » *ev3030.cnvrs-text*
+- Modification In The Texts:
+ - » *ev0010.cnvrs-text*
+ - » *ev1010.cnvrs-text*
+ - » *ev2030.cnvrs-text*
+ - » *ev2050.cnvrs-text*
+ - » *ev2060.cnvrs-text*
+ - » *ev2070.cnvrs-text*
+ - » *ev2100.cnvrs-text*
+ - » *ev2110.cnvrs-text*
+ - » *ev2130.cnvrs-text*
+ - » *ev2140.cnvrs-text*
+ - » *ev2150.cnvrs-text*
+ - » *ev2900.cnvrs-text*
+ - » *ev3010.cnvrs-text*
+ - » *ev3030.cnvrs-text*
 
 ## Localization PT-BR - Overhaul > Preview 21234
 - (Date: 12/30/2022)
