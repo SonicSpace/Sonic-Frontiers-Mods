@@ -1,4 +1,4 @@
-## Localization PT-BR - Overhaul > 14558
+## Localization PT-BR - Overhaul > Preview 14558
 - (Date: 12/30/2022)
 - Modification In The Texts:
   » *ev0020.cnvrs-text* - Sonic Speech text is now centered!
