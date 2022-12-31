@@ -1,3 +1,20 @@
+## Localization PT-BR - Overhaul > Preview 30132
+- (Date: 12/31/2022)
+- Modification In The Texts:
+###### └ text_skill_pt
+  - » *skill.cnvrs-text*
+  - » *ui_Skill.cnvrs-text*
+###### └ text_common_pt
+  - » *Common.cnvrs-text*
+  - » *Glossary.cnvrs-text*
+  - » *ui_Extra.cnvrs-text*
+  - » *ui_Hud.cnvrs-text*
+  - » *ui_Keyconfig.cnvrs-text*
+  - » *ui_Menu.cnvrs-text*
+  - » *ui_Notice.cnvrs-text*
+  - » *ui_Result.cnvrs-text*
+  - » *ui_Toast.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 25902
 - (Date: 12/30/2022)
 - Modification In The Texts:
