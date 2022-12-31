@@ -1,0 +1,4 @@
+add mod.ini
+add pak.Text-Remastered/raw/text/text_caption_pt.pac
+add pak.Text-Remastered/raw/text/text_common_pt.pac
+add pak.Text-Remastered/raw/text/text_skill_pt.pac
