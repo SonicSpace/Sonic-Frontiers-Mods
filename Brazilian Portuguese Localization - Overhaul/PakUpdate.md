@@ -1,3 +1,21 @@
+## Brazilian Portuguese Localization - Overhaul > Version 1.2
+- (Date: 01/01/2022) - 18:15 PM
+- » Novos Textos Adicionados nos Tutoriais/Hud/Simulador Vulgo Treinamento/Revisão na Primeira Cutscene da Sage & Eggman!
+###### └ text_dlc_common_pt
+  - » *TutorialText.cnvrs-text*
+###### └ text_objective_pt
+  - » *Trophy.cnvrs-text*
+  - » *TutorialMission.cnvrs-text*
+  - » *TutorialMissionCS.cnvrs-text*
+  - » *TutorialGuide.cnvrs-text*
+  - » *Tips.cnvrs-text*
+  - » *Staffroll.cnvrs-text*
+  - » *PracticeSpace.cnvrs-text*
+  - » *CyberSpace.cnvrs-text*
+  - » *RichPresence.cnvrs-text*
+###### └ text_caption_pt
+  - » *ev1130.cnvrs-text*
+
 ## Brazilian Portuguese Localization - Overhaul > Version 1.1.3
 - (Date: 01/01/2022) - 12:14 PM
 - » Novas Frases/Correção ao Resgatar Chaves Adicionais/Desbloquear Cofres de Esmeraldas do Caos
@@ -5,7 +23,7 @@
   - » *ui_Menu.cnvrs-text*
 
 ## Brazilian Portuguese Localization - Overhaul > Version 1.1.2
-- (Date: 01/01/2022) - 10:48 PM
+- (Date: 01/01/2022) - 10:48 AM
 - » Mudanças/Melhorias na Interface de Objetivos & Diálogos dos Personagens!
 ###### └ text_caption_pt.pac
   - » *ev0010.cnvrs-text*
