@@ -1,3 +1,9 @@
+## Brazilian Portuguese Localization - Overhaul > Version 1.1.3
+- (Date: 01/01/2022) - 12:14 PM
+- » Novas Frases/Correção ao Resgatar Chaves Adicionais/Desbloquear Cofres de Esmeraldas do Caos
+###### └ text_common_pt.pac
+  - » *ui_Menu.cnvrs-text*
+
 ## Brazilian Portuguese Localization - Overhaul > Version 1.1.2
 - (Date: 01/01/2022) - 10:48 PM
 - » Mudanças/Melhorias na Interface de Objetivos & Diálogos dos Personagens!
