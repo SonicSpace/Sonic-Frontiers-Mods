@@ -1,3 +1,20 @@
+## Localization PT-BR - Overhaul > Preview 30240
+- (Date: 01/01/2022)
+- Modification In The Texts:
+###### └ text_common_pt
+  - » *ev0010.cnvrs-text*
+  - » *ev1020.cnvrs-text*
+  - » *ev1900.cnvrs-text*
+  - » *ev2030.cnvrs-text*
+  - » *ev2900.cnvrs-text*
+  - » *ko1010.cnvrs-text*
+  - » *ko1030.cnvrs-text*
+  - » *sy1010.cnvrs-text*
+  - » *sy1030.cnvrs-text*
+  - » *sy2000.cnvrs-text*
+  - » *sy4000.cnvrs-text*
+  - » *sy9000.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 30239
 - (Date: 12/31/2022)
 - Modification In The Texts:
