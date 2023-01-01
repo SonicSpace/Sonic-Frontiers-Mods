@@ -1,9 +1,11 @@
 ## Brazilian Portuguese Localization - Overhaul > Version 1.2
 - (Date: 01/01/2022) - 18:15 PM
 - » Novos Textos Adicionados nos Tutoriais/Hud/Simulador Vulgo Treinamento/Revisão na Primeira Cutscene da Sage & Eggman!
-###### └ text_dlc_common_pt
+###### └ text_common_pt.pac
+  - » *ui_Hud.cnvrs-text*
+###### └ text_dlc_common_pt.pac
   - » *TutorialText.cnvrs-text*
-###### └ text_objective_pt
+###### └ text_objective_pt.pac
   - » *Trophy.cnvrs-text*
   - » *TutorialMission.cnvrs-text*
   - » *TutorialMissionCS.cnvrs-text*
@@ -13,7 +15,7 @@
   - » *PracticeSpace.cnvrs-text*
   - » *CyberSpace.cnvrs-text*
   - » *RichPresence.cnvrs-text*
-###### └ text_caption_pt
+###### └ text_caption_pt.pac
   - » *ev1130.cnvrs-text*
 
 ## Brazilian Portuguese Localization - Overhaul > Version 1.1.3
