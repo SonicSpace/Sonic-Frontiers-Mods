@@ -1,11 +1,29 @@
+## Localization PT-BR - Overhaul > Preview 32579
+- (Date: 01/01/2023)
+- Modification In The Texts:
+###### └ text_objective_pt
+  - » *Trophy.cnvrs-text*
+  - » *TutorialMission.cnvrs-text*
+  - » *TutorialMissionCS.cnvrs-text*
+  - » *TutorialGuide.cnvrs-text*
+  - » *Tips.cnvrs-text*
+  - » *Staffroll.cnvrs-text*
+  - » *PracticeSpace.cnvrs-text*
+  - » *CyberSpace.cnvrs-text*
+  - » *RichPresence.cnvrs-text*
+###### └ text_caption_pt
+  - » *ev1130.cnvrs-text*
+###### └ text_common_pt
+  - » *ui_Hud.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 30241
-- (Date: 01/01/2022)
+- (Date: 01/01/2023)
 - Modification In The Texts:
 ###### └ text_common_pt
   - » *ui_Menu.cnvrs-text*
 
 ## Localization PT-BR - Overhaul > Preview 30240
-- (Date: 01/01/2022)
+- (Date: 01/01/2023)
 - Modification In The Texts:
 ###### └ text_common_pt
   - » *ev0010.cnvrs-text*
