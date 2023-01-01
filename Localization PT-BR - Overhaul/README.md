@@ -1,9 +1,16 @@
+## Localization PT-BR - Overhaul > Preview 30239
+- (Date: 12/31/2022)
+- Modification In The Texts:
+###### └ text_common_pt
+  - » *Common.cnvrs-text*
+  - » *ui_Menu.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 30235
 - (Date: 12/31/2022)
 - Modification In The Texts:
 ###### └ text_skill_pt
   - » *skill.cnvrs-text*
-  ###### └ text_common_pt
+###### └ text_common_pt
   - » *Common.cnvrs-text*
   - » *Glossary.cnvrs-text*
   - » *ui_Extra.cnvrs-text*
