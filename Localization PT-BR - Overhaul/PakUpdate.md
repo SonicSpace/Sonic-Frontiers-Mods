@@ -7,6 +7,8 @@
 ## Localization PT-BR - Overhaul > Preview 32579
 - (Date: 01/01/2023)
 - Modification In The Texts:
+###### └ text_RichPresence_pt.pac
+  - » *RichPresence.cnvrs-text*
 ###### └ text_objective_pt
   - » *Trophy.cnvrs-text*
   - » *TutorialMission.cnvrs-text*
@@ -16,7 +18,6 @@
   - » *Staffroll.cnvrs-text*
   - » *PracticeSpace.cnvrs-text*
   - » *CyberSpace.cnvrs-text*
-  - » *RichPresence.cnvrs-text*
 ###### └ text_caption_pt
   - » *ev1130.cnvrs-text*
 ###### └ text_common_pt
