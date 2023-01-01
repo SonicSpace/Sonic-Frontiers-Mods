@@ -1,7 +1,7 @@
 ## Localization PT-BR - Overhaul > Preview 30240
 - (Date: 01/01/2022)
 - Modification In The Texts:
-###### └ text_common_pt
+###### └ text_caption_pt
   - » *ev0010.cnvrs-text*
   - » *ev1020.cnvrs-text*
   - » *ev1900.cnvrs-text*
