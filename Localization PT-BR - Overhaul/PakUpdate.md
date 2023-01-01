@@ -1,3 +1,9 @@
+## Localization PT-BR - Overhaul > Preview 32580
+- (Date: 01/01/2023)
+- Modification In The Texts:
+###### └ text_dlc_common_pt
+  - » *TutorialText.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 32579
 - (Date: 01/01/2023)
 - Modification In The Texts:
