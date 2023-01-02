@@ -1,3 +1,9 @@
+## Brazilian Portuguese Localization - Overhaul > Version 1.2.2
+- (Date: 01/01/2022) - 22:43 PM
+- » Ajustes Finais da Interface do Menu Principal/Tela de Título/Configurações Gráficas/Jogo
+###### └ text_common_pt.pac
+  - » *ui_Menu.cnvrs-text*
+
 ## Brazilian Portuguese Localization - Overhaul > Version 1.2
 - (Date: 01/01/2022) - 18:15 PM
 - » Novos Textos Adicionados nos Tutoriais/Hud/Simulador Vulgo Treinamento/Revisão na Primeira Cutscene da Sage & Eggman!
