@@ -1,3 +1,10 @@
+## Localization PT-BR - Overhaul > Preview 32587
+- (Date: 01/01/2023)
+- Modification In The Texts:
+###### └ text_dlc_common_pt
+  - » *ui_Menu.cnvrs-text*
+  - » *ui_Notice.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 32580
 - (Date: 01/01/2023)
 - Modification In The Texts:

@@ -1,3 +1,10 @@
+## Localization PT-BR - Overhaul > Preview 32587
+- (Date: 01/01/2023)
+- Modification In The Texts:
+###### └ text_dlc_common_pt
+  - » *ui_Menu.cnvrs-text*
+  - » *ui_Notice.cnvrs-text*
+
 ## Localization PT-BR - Overhaul > Preview 32580
 - (Date: 01/01/2023)
 - Modification In The Texts:
@@ -7,7 +14,7 @@
 ## Localization PT-BR - Overhaul > Preview 32579
 - (Date: 01/01/2023)
 - Modification In The Texts:
-###### └ text_RichPresence_pt.pac
+###### └ text_RichPresence_pt
   - » *RichPresence.cnvrs-text*
 ###### └ text_objective_pt
   - » *Trophy.cnvrs-text*
