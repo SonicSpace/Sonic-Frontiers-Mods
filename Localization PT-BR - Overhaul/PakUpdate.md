@@ -1,3 +1,10 @@
+## Localization PT-BR - Overhaul > Migração de Repositório Para a Versão Estável
+- Caros portadores do mod Localization PT-BR - Overhaul > Preview. A versão 2.0 (Final/Remastered) chegará daqui uns dias por isso deixarei vocês com a versão estável v1.2.2 que encontra-se disponível no GameBanana. Espero que vocês estejam curtindo o mod, a versão final trará muitas novidades, consertos e alguns textos novos a serem corrigidos. Então, eu quero focar ao máximo somente no Repositório de Testes. Obrigado por todo o Suporte até aqui!
+## AVISO
+- Quando você clicar em ATUALIZAR passará a receber atualizações somente no Repositório Oficial do Mod (A Versão Preview deixará de existir, quaisquer arquivos antigos dessa versão não estará mais disponível) 
+- O Novo nome do mod se chamará Brazilian Portuguese Localization - Overhaul que posteriormente quando receber a versão final receberá outro nome na frase final de Remastered que é a versão Definitiva/Finalizada. (Brazilian Portuguese Localization Remastered)
+## Sincerely Caio Natsune - Data: 03/01/2022 - 20:28 PM
+----------------------------------------------------------------------------------
 ## Localization PT-BR - Overhaul > Preview 32587
 - (Date: 01/01/2023)
 - Modification In The Texts:
