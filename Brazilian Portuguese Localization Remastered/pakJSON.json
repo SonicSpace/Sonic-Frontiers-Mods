@@ -1,0 +1,53 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Brazilian Portuguese Localization Remastered - Settings",
+         "Elements": [
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Wallpaper do Sonic na Ilha Starfall:",
+               "Type": "System1",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": ".\\pak.003\\"
+            
+            },
+
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Melhoria na Logo do Sonic Frontiers:",
+               "Type": "System2",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": ".\\pak.004\\"
+            
+            }
+         ]
+      }
+   ],
+   "Enums": {
+      "System1": [
+         {
+            "DisplayName": "Desligado",
+            "Value": ".\\pak.001\\"
+         },
+         {
+            "DisplayName": "Ligado",
+            "Value": ".\\pak.003\\"
+         }
+      ],
+
+      "System2": [
+         {
+            "DisplayName": "Desligado",
+            "Value": ".\\pak.001\\"
+         },
+         {
+            "DisplayName": "Ligado",
+            "Value": ".\\pak.004\\"
+         }
+      ]
+   },
+   "IniFile": "mod.ini"
+}

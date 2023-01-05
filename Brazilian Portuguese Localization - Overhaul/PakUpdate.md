@@ -1,3 +1,15 @@
+## Brazilian Portuguese Localization Remastered > Version 2.0
+- (Date: 01/04/2022) - 20:47 PM
+- » Versão Final/Remasterizada de Alguns Textos Que Simplesmente Achei Que Não Ficaram Bons Pela Equipe de Tradução, Mas Tá Tudo Bem. 
+- » Implementação da Logo do Sonic Frontiers Versão Melhorada (você pode desativá-la no seu HedgeModManager), 
+- » Verdadeiro Papel de Parede do Sonic Nos Trilhos Nas Ilhas Starfall (também pode ser desativado no HMM), 
+- » Correções & Adições Na UI Jogo.
+
+## Fico Muito Feliz de Trazer Essa Atualização Para Vocês! Eu Espero Que Vocês Curtam, Pois, Não Terá Mais o Diálogo "Esmeraldas Chaos". Quaisquer Erros Nos Textos Deste Mod, Por Favor, Entre Em Contato Comigo Pelo Discord: Caio Natsune#6503 ou Pelo Twitter @CaioNatsune e mande uma Screenshot.
+
+## Muito Obrigado Por Baixar ou Atualizar Este Mod. Feliz 2022 & Se Cuidem!! Abraços! Nos Vemos Num Próximo Projeto.
+###### **OBS: Eu Sei Que Lançou Um Mod Chamado NEW FRONTIERS, Que Trás Novos Diálogos Nas Batalhas, Está Na Lista Que Eu Pretento Atualizar Este Mod Para 2.1 Para Trazer Este Suporte, Mas Não Vou Prometer Nada Já Que Deu Muito Trabalho e Revisão Para Fazer Este Mod, Então é Isso.**
+-----------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization - Overhaul > Version 1.2.2
 - (Date: 01/01/2022) - 22:43 PM
 - » Ajustes Finais da Interface do Menu Principal/Tela de Título/Configurações Gráficas/Jogo
