@@ -1,3 +1,10 @@
+## Brazilian Portuguese Localization Remastered > Version 2.0.1 (Tweak & Addition Update)
+- (Date: 01/09/2022) - 17:15 PM
+- » Mudança no Texto da UI de "Qualidade dos Gráficos" para "Predefinição dos Gráficos"
+- » Mudança no Texto da UI Quando Você Seleciona Uma Skin de DLC "Aviso: cenas" para "AVISO"
+- » Mudança no Texto da UI na Aba DLC's de "Emote do Sonic com Koco" para "Emote do Sonic "Koco de Pelúcia"
+- » Agora Você Pode Escolher no Seu HedgeModManager Se Você Quer o Background do Sonic Na Ilha Starfall de Perto ou Longe na Tela de Título do Jogo.
+
 ## Brazilian Portuguese Localization Remastered > Version 2.0
 - (Date: 01/04/2022) - 20:47 PM
 - » Versão Final/Remasterizada de Alguns Textos Que Simplesmente Achei Que Não Ficaram Bons Pela Equipe de Tradução, Mas Tá Tudo Bem. 

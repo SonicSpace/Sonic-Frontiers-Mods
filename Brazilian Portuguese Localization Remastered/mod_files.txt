@@ -1,5 +1,6 @@
 add mod.ini
 add pakJSON.json
+add pak.000/raw/ui/ui_gamemodetitle.pac
 add pak.001/UpdateServer.txt
 add pak.002/raw/text/text_caption_pt.pac
 add pak.002/raw/text/text_common_pt.pac

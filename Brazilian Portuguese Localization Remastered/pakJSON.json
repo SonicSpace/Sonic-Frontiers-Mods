@@ -6,7 +6,7 @@
          "Elements": [
             {
                "Name": "IncludeDir1",
-               "DisplayName": "Wallpaper do Sonic na Ilha Starfall:",
+               "DisplayName": "Sonic Frontiers: The Real Sonic Frontiers Background Art »",
                "Type": "System1",
                "MinValue": null,
                "MaxValue": null,
@@ -16,7 +16,7 @@
 
             {
                "Name": "IncludeDir2",
-               "DisplayName": "Melhoria na Logo do Sonic Frontiers:",
+               "DisplayName": "Sonic Frontiers: Logo Remake (Improved) »",
                "Type": "System2",
                "MinValue": null,
                "MaxValue": null,
@@ -33,8 +33,12 @@
             "Value": ".\\pak.001\\"
          },
          {
-            "DisplayName": "Ligado",
+            "DisplayName": "Ligado (Visão de Perto)",
             "Value": ".\\pak.003\\"
+         },
+         { 
+            "DisplayName": "Ligado (Visão de Longe)",
+            "Value": ".\\pak.000\\"
          }
       ],
 
