@@ -1,3 +1,7 @@
+## Brazilian Portuguese Localization Remastered > Version 2.0.3 (Minor Update)
+- (Date: 01/10/2022) - 19:13 PM
+- » Correção no Texto da UI do CyberEspaço.
+--------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.2 (Overhaul & Tweak Update)
 - (Date: 01/10/2022) - 18:44 PM
 - » Remoção De Centralização do Texto do Sonic Após a Fala Da Amy! (Considerado Boring!).
