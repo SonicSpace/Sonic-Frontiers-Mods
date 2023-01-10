@@ -1,4 +1,6 @@
 ![63bc7b71e5993](https://user-images.githubusercontent.com/88670125/211404378-57abfa27-e32b-42b4-a310-db6569b5f08c.jpg)
+## SONIC FRONTIERS
+» Remoção De Centralização do Texto do Sonic Após a Fala Da Amy! (Considerado Boring!).
 ![63b095c453028](https://user-images.githubusercontent.com/88670125/211404374-a4615002-3900-4173-b002-5b55cf5c3606.jpg)
 ![63bc79f3d0b58](https://user-images.githubusercontent.com/88670125/211404381-14297e66-7bbb-479d-9c32-f171d38af45e.jpg)
 ![63b62a1c95aad](https://user-images.githubusercontent.com/88670125/211404352-7cc984d1-928c-4d17-a11c-a74b0c010e9a.jpg)
