@@ -1,3 +1,7 @@
+## Brazilian Portuguese Localization Remastered > Version 2.0.4 (Addition Update)
+- (Date: 01/11/2022) - 10:34 AM
+- » Suporte Para o Mod "Tutorial Skip" Com Diálogos Totalmente Em Português do Brasil.
+--------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.3 (Minor Update)
 - (Date: 01/10/2022) - 19:13 PM
 - » Correção no Texto da UI do CyberEspaço.
