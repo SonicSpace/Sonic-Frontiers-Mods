@@ -1,3 +1,12 @@
+## Brazilian Portuguese Localization Remastered > Version 2.0.5 (Overhaul Update)
+- (Date: 01/12/2022) - 20:10 PM
+- » Revisão Nos Textos da UI das Configurações Gráficas "Antialiasing" para "Anti-Aliasing".
+- » Revisão Nos Textos da UI da Menu de Seleção "Salvar" para "Salvar o Jogo", "Menu Principal" para "Tela de Título".
+- » Revisão Nos Textos da UI do CyberEspaço/Contra Tempo "Escolher Uma Fase" para "Selecionar".
+- » Revisão Nos Textos da UI do CyberEspaço/Objetivo/Menu de Seleção "Continuar" para "Voltar ao Jogo".
+- » Revisão Nos Textos da UI do CyberEspaço/Menu de Seleção "Sistema" para "Jogo", "Recomeçar a fase" para "Recomeçar o CyberEspaço, "Sair da fase" para "Sair do Portal".
+- » Revisão Nos Textos da UI do Menu de Seleção dos Objetivos.
+--------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.4 (Addition Update)
 - (Date: 01/11/2022) - 10:34 AM
 - » Suporte Para o Mod "Tutorial Skip" Com Diálogos Totalmente Em Português do Brasil.
