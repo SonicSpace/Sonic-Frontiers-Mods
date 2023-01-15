@@ -1,3 +1,9 @@
+## Brazilian Portuguese Localization Remastered > Version 2.0.6 (Minor Update)
+- (Date: 01/14/2022) - 21:25 PM
+- » Revisão Nos Textos da UI do Sonic "Boost" para "Turbo" » Feedback feito por Junior Passos.
+- » Revisão Nos Textos da UI do TutorialMissionCS Que Ainda Continha "Arrancada Suave" para "Arrancada de Anéis".
+- » Troca de Repositório/Updates para a Equipe de Traduções - Green Speed Studio
+--------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.5 (Overhaul Update)
 - (Date: 01/12/2022) - 20:10 PM
 - » Revisão Nos Textos da UI das Configurações Gráficas "Antialiasing" para "Anti-Aliasing".
